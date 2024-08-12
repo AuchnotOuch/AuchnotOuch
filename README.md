@@ -4,9 +4,11 @@ I'm a full stack software engineer currently residing in the beautiful state of 
 
 # Checkout some of my projects:
 
-## [Blogsta](https://github.com/AuchnotOuch/Blogsta) - A Tumblr Clone
+## [Sunny Blooms](https://sunny-blooms.onrender.com/) - Basic Business Website
 
-## [Al's BnB](https://github.com/AuchnotOuch/API-Project) - An AirBnB Clone
+## [Urban Green's Cats and Things](https://urban-greens.onrender.com/) - An E-Commerce Business Website
+
+## [Freedom HVAC and Electrical](https://freedom-hvac-electrical.onrender.com/) - Larger Business Website
 
 # What I know:
 
