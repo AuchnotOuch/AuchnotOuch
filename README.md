@@ -2,14 +2,6 @@
 
 I'm a full stack software engineer currently residing in the beautiful state of Montana. I hope to make a difference in peoples lives through the lines of code I write. 
 
-# Checkout some of my projects:
-
-## [Sunny Blooms](https://sunny-blooms.onrender.com/) - Basic Business Website
-
-## [Urban Green's Cats and Things](https://urban-greens.onrender.com/) - An E-Commerce Business Website
-
-## [Freedom HVAC and Electrical](https://freedom-hvac-electrical.onrender.com/) - Larger Business Website
-
 # What I know:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
