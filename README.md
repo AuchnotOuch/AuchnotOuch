@@ -1,7 +1,3 @@
-## The name's Alex. Alex Auch. Welcome to my Github!
-
-I'm a full stack software engineer currently residing in the beautiful state of Montana. I hope to make a difference in peoples lives through the lines of code I write. 
-
 # What I know:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,15 +11,6 @@ I'm a full stack software engineer currently residing in the beautiful state of 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-
-# Connect:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsamuelauch@gmail.com)
-[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-auch/)
-[![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/alex-auch)
-
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-
 
 
 
